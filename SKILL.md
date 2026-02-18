@@ -1,5 +1,5 @@
 ---
-name: silver-story-boom-v92
+name: silver-story-v92
 description: "老年故事精准创作系统v92。3种叙事类型+去AI化+精准字数控制+写作技术分层。11000-12000字误差小于1%。台湾元素+简体输出。"
 ---
 
