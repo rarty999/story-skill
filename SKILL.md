@@ -115,21 +115,22 @@ description: "老年故事精准创作系统v92。3种叙事类型+去AI化+精�
 ## 📐 调度规则
 
 ### AI必读文档(按顺序)
-1. `core/story-types.md` ⭐⭐⭐ - 判断用哪种类型
-2. `phase0-core-design.md` ⭐⭐⭐ - 阶段0执行
-3. `phase0.5-plot-design.md` ⭐⭐⭐ - 剧情框架设计
-4. `phase1-blueprint.md` ⭐⭐⭐ - 阶段1执行
-5. `phase2-writing.md` ⭐⭐⭐ - 阶段2执行
-6. `writing-rules/universal-craft.md` ⭐⭐⭐ - 通用写作技术（所有类型必读）⭐新增
-7. `writing-rules/scene-templates.md` ⭐⭐⭐ - 场景写法公式（含类型区分）
-8. `writing-rules/rhythm-control.md` ⭐⭐ - 节奏控制（含委屈层次/往事功能）
-9. `writing-rules/detail-toolkit.md` ⭐⭐ - 细节工具箱
+1. `resources/core-story-types.md` ⭐⭐⭐ - 判断用哪种类型
+2. `resources/phase0-core-design.md` ⭐⭐⭐ - 阶段0执行
+3. `resources/phase0-plot-design.md` ⭐⭐⭐ - 剧情框架设计
+4. `resources/phase1-blueprint.md` ⭐⭐⭐ - 阶段1执行
+5. `resources/phase2-writing.md` ⭐⭐⭐ - 阶段2执行
+6. `resources/writing-universal-craft.md` ⭐⭐⭐ - 通用写作技术（所有类型必读）
+7. `resources/writing-scene-templates.md` ⭐⭐⭐ - 场景写法公式（含类型区分）
+8. `resources/writing-rhythm-control.md` ⭐⭐ - 节奏控制（含委屈层次/往事功能）
+9. `resources/writing-detail-toolkit.md` ⭐⭐ - 细节工具箱
 
 ### 参考文档(选读)
-10. `knowledge/style-guide.md` - 写作风格
-11. `knowledge/real-plot-patterns.md` ⭐ - 实际剧情规律验证
-12. `core/worldview.md` - 价值观
-13. `writing-rules/common-mistakes.md` - 纠错清单（17个高频错误）
+10. `resources/style-guide-part1.md` - 写作风格（上）
+11. `resources/style-guide-part2.md` - 写作风格（下）
+12. `resources/real-plot-patterns.md` ⭐ - 实际剧情规律验证
+13. `resources/core-worldview.md` - 价值观
+14. `resources/writing-common-mistakes.md` - 纠错清单（17个高频错误）
 
 ---
 
